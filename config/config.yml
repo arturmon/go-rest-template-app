@@ -1,0 +1,14 @@
+http:
+  listenAddr: ":8080"
+  ReadHeaderTimeout: 5s
+
+release:
+  releaseVersion: "@RELEASE_VERSION@"
+  releaseTime: "@RELEASE_TIME@"
+
+
+database:
+  url: postgres://root:1qazxsw2@127.0.0.1:5432/application?sslmode=disable
+  maxIdle: 50
+  maxActive: 100
+  logMode: true
