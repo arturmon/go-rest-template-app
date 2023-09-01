@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f15bd822-b435-4df2-906d-d2790c60adf8" name="Changes" comment="feat: start templates">
-      <change afterPath="$PROJECT_DIR$/migration/001_add_tables.down.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migration/001_add_tables.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/migration.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
